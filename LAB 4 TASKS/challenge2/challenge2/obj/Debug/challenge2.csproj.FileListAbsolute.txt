@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\bin\Debug\challenge2.exe.config
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\bin\Debug\challenge2.exe
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\bin\Debug\challenge2.pdb
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\obj\Debug\challenge2.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\obj\Debug\challenge2.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\obj\Debug\challenge2.exe
+D:\PF\OOP\programs\LAB 4 TASKS\challenge2\challenge2\obj\Debug\challenge2.pdb

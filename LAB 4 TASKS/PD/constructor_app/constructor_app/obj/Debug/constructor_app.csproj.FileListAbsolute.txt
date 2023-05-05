@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\bin\Debug\constructor_app.exe.config
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\bin\Debug\constructor_app.exe
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\bin\Debug\constructor_app.pdb
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\obj\Debug\constructor_app.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\obj\Debug\constructor_app.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\obj\Debug\constructor_app.exe
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_app\constructor_app\obj\Debug\constructor_app.pdb

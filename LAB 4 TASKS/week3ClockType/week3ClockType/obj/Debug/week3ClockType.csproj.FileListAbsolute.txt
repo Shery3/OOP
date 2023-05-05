@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\bin\Debug\week3ClockType.exe.config
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\bin\Debug\week3ClockType.exe
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\bin\Debug\week3ClockType.pdb
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\obj\Debug\week3ClockType.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\obj\Debug\week3ClockType.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\obj\Debug\week3ClockType.exe
+D:\PF\OOP\programs\LAB 4 TASKS\week3ClockType\week3ClockType\obj\Debug\week3ClockType.pdb

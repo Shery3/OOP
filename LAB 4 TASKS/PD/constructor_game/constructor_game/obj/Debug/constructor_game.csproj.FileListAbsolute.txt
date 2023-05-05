@@ -1,0 +1,10 @@
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\bin\Debug\constructor_game.exe.config
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\bin\Debug\constructor_game.exe
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\bin\Debug\constructor_game.pdb
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\bin\Debug\EZInput.dll
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\bin\Debug\EZInput.xml
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\obj\Debug\constructor_game.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\obj\Debug\constructor_game.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\obj\Debug\constructor_game.csproj.CopyComplete
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\obj\Debug\constructor_game.exe
+D:\PF\OOP\programs\LAB 4 TASKS\PD\constructor_game\constructor_game\obj\Debug\constructor_game.pdb
