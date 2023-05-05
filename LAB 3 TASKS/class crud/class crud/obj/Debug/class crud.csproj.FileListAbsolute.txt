@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\bin\Debug\class crud.exe.config
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\bin\Debug\class crud.exe
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\bin\Debug\class crud.pdb
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\obj\Debug\class crud.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\obj\Debug\class crud.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\obj\Debug\class crud.exe
+D:\PF\OOP\programs\LAB 3 TASKS\class crud\class crud\obj\Debug\class crud.pdb

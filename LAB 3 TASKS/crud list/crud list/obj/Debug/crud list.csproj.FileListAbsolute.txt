@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\bin\Debug\crud list.exe.config
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\bin\Debug\crud list.exe
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\bin\Debug\crud list.pdb
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\obj\Debug\crud list.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\obj\Debug\crud list.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\obj\Debug\crud list.exe
+D:\PF\OOP\programs\LAB 3 TASKS\crud list\crud list\obj\Debug\crud list.pdb

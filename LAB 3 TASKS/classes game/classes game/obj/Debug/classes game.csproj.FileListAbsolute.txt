@@ -1,0 +1,10 @@
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\bin\Debug\classes game.exe.config
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\bin\Debug\classes game.exe
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\bin\Debug\classes game.pdb
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\bin\Debug\EZInput.dll
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\bin\Debug\EZInput.xml
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\obj\Debug\classes game.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\obj\Debug\classes game.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\obj\Debug\classes game.csproj.CopyComplete
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\obj\Debug\classes game.exe
+D:\PF\OOP\programs\LAB 3 TASKS\classes game\classes game\obj\Debug\classes game.pdb

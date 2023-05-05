@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\bin\Debug\list sigin.exe.config
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\bin\Debug\list sigin.exe
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\bin\Debug\list sigin.pdb
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\obj\Debug\list sigin.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\obj\Debug\list sigin.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\obj\Debug\list sigin.exe
+D:\PF\OOP\programs\LAB 3 TASKS\list sigin\list sigin\obj\Debug\list sigin.pdb
