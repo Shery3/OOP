@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\bin\Debug\classes signup.exe.config
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\bin\Debug\classes signup.exe
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\bin\Debug\classes signup.pdb
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\obj\Debug\classes signup.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\obj\Debug\classes signup.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\obj\Debug\classes signup.exe
+D:\PF\OOP\programs\LAB 2 TASKS\classes signup\classes signup\obj\Debug\classes signup.pdb

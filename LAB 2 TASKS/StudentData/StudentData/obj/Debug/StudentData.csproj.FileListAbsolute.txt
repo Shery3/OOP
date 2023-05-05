@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\StudentData\StudentData\bin\Debug\StudentData.exe.config
+D:\PF\OOP\programs\StudentData\StudentData\bin\Debug\StudentData.exe
+D:\PF\OOP\programs\StudentData\StudentData\bin\Debug\StudentData.pdb
+D:\PF\OOP\programs\StudentData\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\StudentData\StudentData\obj\Debug\StudentData.exe
+D:\PF\OOP\programs\StudentData\StudentData\obj\Debug\StudentData.pdb

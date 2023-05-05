@@ -1,0 +1,7 @@
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\bin\Debug\Application classes.exe.config
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\bin\Debug\Application classes.exe
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\bin\Debug\Application classes.pdb
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\obj\Debug\Application classes.csproj.AssemblyReference.cache
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\obj\Debug\Application classes.csproj.CoreCompileInputs.cache
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\obj\Debug\Application classes.exe
+D:\PF\OOP\programs\LAB 2 TASKS\Application classes\Application classes\obj\Debug\Application classes.pdb
